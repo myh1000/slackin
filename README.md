@@ -11,6 +11,10 @@ It provides
 - A SVG badge that works well from static mediums
   (like GitHub README pages)
 
+
+[![Slack Status](https://gunnhacks3.herokuapp.com/badge.svg)](https://gunnhacks3.herokuapp.com/)
+
+
 Read more about the [motivations and history](http://rauchg.com/slackin) behind Slackin.
 
 ## How to use
